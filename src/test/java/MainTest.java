@@ -16,12 +16,12 @@ public class MainTest {
 
     @Test
     void times(){
-        assertEquals(4, main.add(1, 4));
+        assertEquals(4, main.times(1, 4));
     }
 
     @Test
     void div(){
-        assertEquals(2, main.diff(4, 2));
+        assertEquals(2, main.div(4, 2));
     }
 }
 
