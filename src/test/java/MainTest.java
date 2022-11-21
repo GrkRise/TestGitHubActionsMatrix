@@ -13,6 +13,16 @@ public class MainTest {
     void difference(){
         assertEquals(1, main.diff(3, 2));
     }
+
+    @Test
+    void times(){
+        assertEquals(4, main.add(1, 4));
+    }
+
+    @Test
+    void div(){
+        assertEquals(2, main.diff(4, 2));
+    }
 }
 
 
