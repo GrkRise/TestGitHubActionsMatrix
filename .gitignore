@@ -8,8 +8,7 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
-gradlew
-gradlew.bat
+
 build
 .gradle
 
